@@ -1,12 +1,8 @@
 <template>
   <div id="app">
-<<<<<<< HEAD
-    <h1>Your Gen Ai LLM Model</h1>
+
+    <h1>MLOps & LLMOps from Psitron</h1>
 	<h2>Upload your data to get Gen Ai predictions</h2>
-=======
-    <h1>Psitron Gen Ai LLM Model</h1>
-	<h2>Upload your data to make to get predictions</h2>
->>>>>>> e9510c360bd383e8f026828bd1a9748a23344011
     <img
       alt="Vue logo"
       style="width: 100px; height: 100px"
